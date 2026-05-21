@@ -78,6 +78,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "LLMmap: Fingerprinting For Large Language Models", 2024-07, [[paper]](https://www.themoonlight.io/paper/share/b1223716-8fad-4d90-8a36-cce960514bab) [[repo]](https://github.com/pasquini-dario/LLMmap)
 
 ### Defense
+
+- [OWASP Agent Memory Guard](https://github.com/vgudur-dev/owasp-agent-memory-guard) - Official OWASP reference implementation for ASI06 (Memory Poisoning) defense in agentic AI systems. Scan-before-write pattern with threat scoring. Adopted by the UK AI Safety Institute's inspect_evals benchmark suite.
 - "Baseline Defenses for Adversarial Attacks Against Aligned Language Models", 2023-09, [[paper]](https://www.themoonlight.io/paper/share/77b67179-78ce-4a9b-99de-1db2213d85cb) [[repo]](https://github.com/neelsjain/baseline-defenses)
 - "LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked", 2023-08, ICLR 24 Tiny Paper, `self-filtered`, [[paper]](https://www.themoonlight.io/paper/share/2d66d34b-5666-4b1f-aa9e-16396c6f4df3) [[repo]](https://github.com/poloclub/llm-self-defense) [[site]](https://mphute.github.io/papers/llm-self-defense)
 - "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM", 2023-09, `random-mask-filter`, [[paper]](https://www.themoonlight.io/paper/share/1a368b95-9e71-43a8-a9c6-5555ec6e925d)
